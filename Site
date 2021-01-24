@@ -1,0 +1,48 @@
+Ссылка на сайт:
+
+http://pd-2020-2.std-1306.ist.mospolytech.ru/testsite/
+
+Код сайта:
+
+<html>
+<head>
+	<title>Проектная деятельность зима 2020</title>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<style>
+		body{
+			color: #1cb34b;
+			background: #aef0d4;
+			text-align: center;
+		}
+		h2{
+			background: #aef0d4;
+			text-align: center;
+		}
+		h3{
+			color: #1cb34b;
+			background: #aef0d4;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<p><img src="https://sun9-23.userapi.com/impg/CK-vI5rFUuap8AvXEDVp2l8h_n_Tud0n5dlRFA/fSAm-PX4OjQ.jpg?size=1904x1058&quality=96&proxy=1&sign=cf03eea7e9c9eefa63ca59c63490c41a&type=album" 
+	align="center" border = "0" width="100%" alt="Тут картинка команды" background="#aef0d4"></p>
+	<h3><a href="https://github.com/Reshko/Project-work" target="_blank">
+	Репозиторий со всеми материалами по проекту</a></h3>
+	<h3><a href="https://vk.com/wall-197441638_18" target="_blank">
+	Пост в соцсети</a></h3>
+	<h3>
+	Промо
+	</h3>
+	<h3>
+	<iframe src="https://drive.google.com/file/d/1blo-nB8KJ_GUzSRCp53RElp5OYX15OBH/preview" background="#aef0d4" width="1200" height="720"></iframe>
+	</h3>
+	<h3>
+	Видео-презентация
+	</h3>
+	<h3>
+	<iframe src="https://drive.google.com/file/d/1XQOa9VIm9LpXZDLp0azY1KrmE7_rYXKJ/preview" background="#aef0d4" width="1200" height="720"></iframe>
+	</h3>
+</body>
+</html>
